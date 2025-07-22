@@ -3,7 +3,7 @@
 
   <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4000&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Software+Developer.">
+ <img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm82eTIyNjh3bzhjMDl6MHJtaXB2ZjV0NjFnMWZlZ2F0dDR0bGI3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f5BwvEFBcgzU4/giphy.gif"/>
 </p>
 
 
